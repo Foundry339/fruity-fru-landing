@@ -152,3 +152,13 @@ export const perfectForItems = [
   { id: "girls-night", label: "Girls' Nights", icon: "cherry" },
   { id: "team-events", label: "Team Events", icon: "flower" },
 ] as const;
+
+// Short phrases for the scrolling banner at the bottom of the hero.
+export const marqueeItems = [
+  "Mix + Match Patches",
+  "Pressed On The Spot",
+  "We Come To You",
+  "Birthdays + Bridal + Girls' Night",
+  "Make It Yours",
+  "Take It Home Today",
+];
