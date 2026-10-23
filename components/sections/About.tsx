@@ -16,7 +16,7 @@ export function About() {
           <SectionHeading
             eyebrow="About Fruity-Fru"
             title="A DIY party experience that comes straight to you"
-            description="Fruity-Fru is a mobile accessory-making party company. We handle everything — accessories, patches, setup, cleanup, and professional heat pressing — so your group can focus on the fun part: making something one-of-a-kind together."
+            description="Fruity-Fru is a mobile accessory-making party company. We handle everything from accessories and patches to setup, cleanup, and professional heat pressing. So your group can focus on the fun part…making something one-of-a-kind together."
           />
         </AnimateIn>
 
