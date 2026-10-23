@@ -66,7 +66,7 @@ export const partyPackages: PartyPackage[] = [
   {
     id: "deluxe",
     name: "Deluxe Package",
-    tagline: "Our most popular pick — more patches, more fun.",
+    tagline: "Our most popular pick: more patches, more fun.",
     basePrice: 350,
     baseGuestCount: 8,
     additionalGuestPrice: 30,
@@ -120,7 +120,7 @@ export const aboutPoints = [
     icon: "truck",
     title: "We come to you",
     description:
-      "Tables, tablecloths, displays, heat presses, and materials — we bring the entire setup to your location.",
+      "Tables, tablecloths, displays, heat presses, and materials. We bring the entire setup to your location.",
   },
   {
     icon: "users",

@@ -56,7 +56,7 @@ export function Contact() {
               Ready to party?
             </h2>
             <p className="relative mx-auto mt-4 max-w-xl text-white">
-              Gather your crew and book today — we bring the whole experience to you.
+              Gather your crew and book today. We bring the whole experience to you.
             </p>
             <div className="relative mt-8 flex justify-center">
               <BookButton
